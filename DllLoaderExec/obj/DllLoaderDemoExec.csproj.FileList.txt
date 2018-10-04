@@ -1,0 +1,7 @@
+obj\Debug\DllLoaderDemoExec.exe
+obj\Debug\DllLoaderDemoExec.pdb
+bin\Debug\DllLoaderDemoExec.exe
+bin\Debug\DllLoaderDemoExec.pdb
+bin\Debug\InterfacesLib.dll
+bin\Debug\InterfacesLib.pdb
+obj\Debug\ResolveAssemblyReference.cache

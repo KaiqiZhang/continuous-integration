@@ -1,0 +1,12 @@
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\bin\Debug\MSBuildExec.pdb
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\obj\Debug\MSBuildExec.csprojResolveAssemblyReference.cache
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\obj\Debug\MSBuildExec.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\obj\Debug\MSBuildExec.pdb
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\bin\Debug\MSBuildExec.exe
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\obj\Debug\MSBuildExec.exe
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project4\RemoteBuildServer\MSBuildExec\bin\Debug\MSBuildExec.exe
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project4\RemoteBuildServer\MSBuildExec\bin\Debug\MSBuildExec.pdb
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project4\RemoteBuildServer\MSBuildExec\obj\Debug\MSBuildExec.csprojResolveAssemblyReference.cache
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project4\RemoteBuildServer\MSBuildExec\obj\Debug\MSBuildExec.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project4\RemoteBuildServer\MSBuildExec\obj\Debug\MSBuildExec.exe
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project4\RemoteBuildServer\MSBuildExec\obj\Debug\MSBuildExec.pdb

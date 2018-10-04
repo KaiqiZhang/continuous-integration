@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TestRequest>
+  <author>Kaiqi Zhang</author>
+  <tests>
+    <TestElement>
+      <testName>Test1</testName>
+      <buildTool>MSBuild</buildTool>
+      <buildConfig>Test1.csproj</buildConfig>
+      <testCodes>
+        <string>Test1_Interfaces.cs</string>
+        <string>Test1_TestedLib.cs</string>
+        <string>Test1_TestedLibDependency.cs</string>
+        <string>Test1_TestLib.cs</string>
+      </testCodes>
+    </TestElement>
+  </tests>
+</TestRequest>

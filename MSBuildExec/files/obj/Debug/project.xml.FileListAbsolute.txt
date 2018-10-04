@@ -1,0 +1,4 @@
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\xml_debug\Csproj.dll
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\xml_debug\Csproj.pdb
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\obj\Debug\Csproj.dll
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\obj\Debug\Csproj.pdb

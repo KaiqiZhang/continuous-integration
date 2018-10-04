@@ -1,0 +1,8 @@
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\xml_release\Csproj.exe
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\xml_release\Csproj.pdb
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\obj\x64\Release\Csproj.exe
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\obj\x64\Release\Csproj.pdb
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\files\csproj_release\Csproj.exe
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\files\csproj_release\Csproj.pdb
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\files\obj\x64\Release\Csproj.exe
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\files\obj\x64\Release\Csproj.pdb

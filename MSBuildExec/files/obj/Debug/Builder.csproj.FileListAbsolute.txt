@@ -1,0 +1,10 @@
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\csproj_debug\Csproj.dll
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\csproj_debug\Csproj.pdb
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\obj\Debug\Csproj.dll
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2HelpF2017\BuilderDemo\files\obj\Debug\Csproj.pdb
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\files\csproj_debug\Csproj.dll
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\files\csproj_debug\Csproj.pdb
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\files\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\files\obj\Debug\Csproj.dll
+C:\Users\alexz\OneDrive\Documents\CSE681-SMA\Code\Project2\MsgPassing\MSBuildExec\files\obj\Debug\Csproj.pdb

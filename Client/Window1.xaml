@@ -1,0 +1,25 @@
+﻿<Window x:Class="RemoteBuildServer.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RemoteBuildServer"
+        mc:Ignorable="d"
+        Title="File Viewer" Height="650" Width="500">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" HorizontalAlignment="Center" Name="codeLabel">File Content View</Label>
+        <FlowDocumentScrollViewer Grid.Row="1" BorderThickness="1" BorderBrush="Black" IsToolBarVisible="False" VerticalScrollBarVisibility="Auto">
+            <FlowDocument Name="codeView" FontFamily="Consolas" FontSize="12">
+                <Paragraph Name="main">
+                    this is test
+                    <LineBreak/>
+                    with second line
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentScrollViewer>
+    </Grid>
+</Window>
